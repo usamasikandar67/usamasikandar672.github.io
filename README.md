@@ -2,8 +2,7 @@
 
 A modern and responsive login page built with HTML, CSS, and JavaScript. Designed with a sleek dark theme, this UI is ideal for authentication pages in web applications.
 
-
-** Features**
+**Features**
 
 - Clean and minimal dark-themed design
 - Responsive layout for desktop and mobile
